@@ -1,0 +1,201 @@
+clause_id,contract_id,clause_text,clause_type,risk_level,risk_reason
+C0096,CON-1009,The parties shall process personal data in accordance with applicable data protection laws.,Data Privacy,Low,Requires compliance with applicable privacy laws.
+C0016,CON-1071,The customer shall pay all undisputed invoices within 30 days.,Payment,Low,Reasonable payment obligation.
+C0031,CON-1073,Each party's aggregate liability shall not exceed the fees paid under this agreement.,Liability,Low,Liability is capped.
+C0159,CON-1075,The agreement expires at the end of the initial term unless renewed in writing.,Renewal,Low,No automatic renewal.
+C0129,CON-1031,The customer shall indemnify the supplier for all claims arising from the services.,Indemnification,High,Broad customer indemnification obligation.
+C0116,CON-1012,The supplier retains all rights to deliverables created exclusively for the customer.,Intellectual Property,High,Customer ownership of commissioned deliverables is restricted.
+C0070,CON-1086,Confidential information shall be protected using reasonable security measures.,Confidentiality,Low,Provides a general confidentiality obligation.
+C0171,CON-1055,This agreement shall be governed by the laws of India.,Governing Law,Low,Governing law is explicitly defined.
+C0175,CON-1086,This agreement shall be governed by the laws of the state in which the customer is located.,Governing Law,Medium,Governing jurisdiction is variable.
+C0046,CON-1021,The customer may terminate this agreement immediately without prior notice.,Termination,High,Immediate termination creates significant uncertainty.
+C0067,CON-1010,Confidential information shall be protected using reasonable security measures.,Confidentiality,Low,Provides a general confidentiality obligation.
+C0183,CON-1041,The customer may choose the dispute forum after a dispute arises.,Dispute Resolution,High,Allows unilateral forum selection.
+C0166,CON-1004,This agreement shall be governed by the laws of the state in which the customer is located.,Governing Law,Medium,Governing jurisdiction is variable.
+C0079,CON-1025,Confidential information shall be protected using reasonable security measures.,Confidentiality,Low,Provides a general confidentiality obligation.
+C0187,CON-1043,Disputes may be brought before any court selected by either party.,Dispute Resolution,Medium,Forum selection is broad and may require review.
+C0178,CON-1058,This agreement shall be governed by the laws of the state in which the customer is located.,Governing Law,Medium,Governing jurisdiction is variable.
+C0057,CON-1098,Either party may terminate for material breach after a 30-day cure period.,Termination,Low,Termination follows a defined cure process.
+C0153,CON-1052,Renewal is subject to mutual written agreement by both parties.,Renewal,Low,Renewal requires explicit agreement.
+C0083,CON-1084,The parties shall process personal data in accordance with applicable data protection laws.,Data Privacy,Low,Requires compliance with applicable privacy laws.
+C0069,CON-1010,Each party shall protect confidential information for 90 years after termination.,Confidentiality,Low,Defines a reasonable confidentiality period.
+C0125,CON-1006,The customer shall indemnify the supplier for all claims arising from the services.,Indemnification,High,Broad customer indemnification obligation.
+C0017,CON-1074,Payment may be withheld indefinitely at the sole discretion of the customer.,Payment,High,Creates substantial payment uncertainty.
+C0149,CON-1056,The agreement expires at the end of the initial term unless renewed in writing.,Renewal,Low,No automatic renewal.
+C0094,CON-1065,The parties shall process personal data in accordance with applicable data protection laws.,Data Privacy,Low,Requires compliance with applicable privacy laws.
+C0066,CON-1030,Each party shall protect confidential information for 365 years after termination.,Confidentiality,Low,Defines a reasonable confidentiality period.
+C0061,CON-1070,The receiving party may disclose confidential information to any third party without restriction.,Confidentiality,Critical,Allows unrestricted disclosure of confidential information.
+C0085,CON-1053,Personal data shall be retained for no longer than 45 years unless legally required.,Data Privacy,Medium,Retention period may require policy review.
+C0068,CON-1009,Each party shall protect confidential information for 60 years after termination.,Confidentiality,Low,Defines a reasonable confidentiality period.
+C0126,CON-1006,"The supplier shall indemnify the customer for all losses, regardless of cause.",Indemnification,Critical,Very broad indemnification exposure.
+C0133,CON-1021,Each party shall indemnify the other for claims caused by its own negligence.,Indemnification,Low,Mutual and fault-based indemnification.
+C0010,CON-1044,The customer shall make payment within 120 days of the invoice date.,Payment,Medium,Payment period is longer than the preferred threshold.
+C0019,CON-1011,The customer shall make payment within 75 days of the invoice date.,Payment,Medium,Payment period is longer than the preferred threshold.
+C0056,CON-1011,The customer may terminate the agreement for convenience with 30 days notice.,Termination,Medium,One-sided termination right.
+C0076,CON-1094,The receiving party may disclose confidential information to any third party without restriction.,Confidentiality,Critical,Allows unrestricted disclosure of confidential information.
+C0151,CON-1093,The contract shall automatically renew indefinitely without further notice.,Renewal,High,Indefinite automatic renewal creates commercial risk.
+C0105,CON-1069,All intellectual property created specifically for the customer shall be owned by the customer upon payment.,Intellectual Property,Low,Clearly defines customer ownership.
+C0136,CON-1040,The customer shall indemnify the supplier for all claims arising from the services.,Indemnification,High,Broad customer indemnification obligation.
+C0138,CON-1043,Each party shall indemnify the other for claims caused by its own negligence.,Indemnification,Low,Mutual and fault-based indemnification.
+C0165,CON-1029,This agreement shall be governed by the laws of the state in which the customer is located.,Governing Law,Medium,Governing jurisdiction is variable.
+C0077,CON-1008,Each party shall protect confidential information for 30 years after termination.,Confidentiality,Low,Defines a reasonable confidentiality period.
+C0080,CON-1055,The receiving party may disclose confidential information to any third party without restriction.,Confidentiality,Critical,Allows unrestricted disclosure of confidential information.
+C0198,CON-1011,Disputes may be brought before any court selected by either party.,Dispute Resolution,Medium,Forum selection is broad and may require review.
+C0039,CON-1015,Each party's aggregate liability shall not exceed the fees paid under this agreement.,Liability,Low,Liability is capped.
+C0025,CON-1094,The supplier's aggregate liability shall not exceed 365 percent of the contract value.,Liability,Low,A defined liability cap is present.
+C0123,CON-1005,Each party shall indemnify the other for claims caused by its own negligence.,Indemnification,Low,Mutual and fault-based indemnification.
+C0196,CON-1060,Disputes may be brought before any court selected by either party.,Dispute Resolution,Medium,Forum selection is broad and may require review.
+C0030,CON-1035,The supplier shall have unlimited liability for all losses arising from this agreement.,Liability,Critical,Unlimited liability creates significant exposure.
+C0020,CON-1049,The customer shall make payment within 30 days of the invoice date.,Payment,Medium,Payment period is longer than the preferred threshold.
+C0144,CON-1045,This agreement shall renew automatically for successive one-year periods unless either party provides 120 days notice.,Renewal,Medium,Automatic renewal requires monitoring.
+C0087,CON-1022,The supplier may transfer personal data to third parties without prior authorization.,Data Privacy,High,Unrestricted third-party transfer creates privacy exposure.
+C0115,CON-1063,The supplier retains all rights to deliverables created exclusively for the customer.,Intellectual Property,High,Customer ownership of commissioned deliverables is restricted.
+C0174,CON-1059,This agreement shall be governed by the laws of the state in which the customer is located.,Governing Law,Medium,Governing jurisdiction is variable.
+C0006,CON-1078,The customer shall make payment within 365 days of the invoice date.,Payment,Medium,Payment period is longer than the preferred threshold.
+C0127,CON-1088,"The supplier shall indemnify the customer for all losses, regardless of cause.",Indemnification,Critical,Very broad indemnification exposure.
+C0118,CON-1099,All intellectual property created specifically for the customer shall be owned by the customer upon payment.,Intellectual Property,Low,Clearly defines customer ownership.
+C0074,CON-1085,Each party shall protect confidential information for 30 years after termination.,Confidentiality,Low,Defines a reasonable confidentiality period.
+C0141,CON-1043,Renewal is subject to mutual written agreement by both parties.,Renewal,Low,Renewal requires explicit agreement.
+C0099,CON-1054,The parties shall process personal data in accordance with applicable data protection laws.,Data Privacy,Low,Requires compliance with applicable privacy laws.
+C0173,CON-1072,The governing law shall be mutually agreed upon by the parties.,Governing Law,Low,Requires mutual agreement.
+C0097,CON-1052,The parties shall process personal data in accordance with applicable data protection laws.,Data Privacy,Low,Requires compliance with applicable privacy laws.
+C0170,CON-1019,The governing law shall be mutually agreed upon by the parties.,Governing Law,Low,Requires mutual agreement.
+C0098,CON-1075,The parties shall process personal data in accordance with applicable data protection laws.,Data Privacy,Low,Requires compliance with applicable privacy laws.
+C0032,CON-1084,The supplier shall have unlimited liability for all losses arising from this agreement.,Liability,Critical,Unlimited liability creates significant exposure.
+C0013,CON-1046,The customer shall pay all undisputed invoices within 30 days.,Payment,Low,Reasonable payment obligation.
+C0036,CON-1075,The supplier shall have unlimited liability for all losses arising from this agreement.,Liability,Critical,Unlimited liability creates significant exposure.
+C0120,CON-1091,All intellectual property rights are transferred without limitation upon creation.,Intellectual Property,Medium,Broad transfer language requires review.
+C0043,CON-1002,The customer may terminate this agreement immediately without prior notice.,Termination,High,Immediate termination creates significant uncertainty.
+C0190,CON-1062,Any dispute shall first be resolved through good-faith negotiation between the parties.,Dispute Resolution,Low,Provides an initial dispute-resolution mechanism.
+C0091,CON-1025,The supplier may transfer personal data to third parties without prior authorization.,Data Privacy,High,Unrestricted third-party transfer creates privacy exposure.
+C0137,CON-1004,Each party shall indemnify the other for claims caused by its own negligence.,Indemnification,Low,Mutual and fault-based indemnification.
+C0052,CON-1068,The customer may terminate the agreement for convenience with 365 days notice.,Termination,Medium,One-sided termination right.
+C0128,CON-1046,Each party shall indemnify the other for claims caused by its own negligence.,Indemnification,Low,Mutual and fault-based indemnification.
+C0163,CON-1066,This agreement shall be governed by the laws of India.,Governing Law,Low,Governing law is explicitly defined.
+C0042,CON-1068,Either party may terminate for material breach after a 180-day cure period.,Termination,Low,Termination follows a defined cure process.
+C0119,CON-1021,Each party retains ownership of intellectual property developed independently.,Intellectual Property,Low,Defines background IP ownership.
+C0114,CON-1027,Each party retains ownership of intellectual property developed independently.,Intellectual Property,Low,Defines background IP ownership.
+C0027,CON-1082,"The supplier's liability shall be limited only for direct damages, with no monetary cap.",Liability,High,No monetary liability cap is specified.
+C0140,CON-1083,"The supplier shall indemnify the customer for all losses, regardless of cause.",Indemnification,Critical,Very broad indemnification exposure.
+C0101,CON-1034,The supplier retains all rights to deliverables created exclusively for the customer.,Intellectual Property,High,Customer ownership of commissioned deliverables is restricted.
+C0112,CON-1014,The supplier retains all rights to deliverables created exclusively for the customer.,Intellectual Property,High,Customer ownership of commissioned deliverables is restricted.
+C0003,CON-1087,The customer shall make payment within 30 days of the invoice date.,Payment,Medium,Payment period is longer than the preferred threshold.
+C0078,CON-1014,The receiving party may disclose confidential information to any third party without restriction.,Confidentiality,Critical,Allows unrestricted disclosure of confidential information.
+C0047,CON-1093,Either party may terminate for material breach after a 15-day cure period.,Termination,Low,Termination follows a defined cure process.
+C0188,CON-1008,Disputes may be brought before any court selected by either party.,Dispute Resolution,Medium,Forum selection is broad and may require review.
+C0192,CON-1069,Disputes may be brought before any court selected by either party.,Dispute Resolution,Medium,Forum selection is broad and may require review.
+C0086,CON-1028,The supplier may transfer personal data to third parties without prior authorization.,Data Privacy,High,Unrestricted third-party transfer creates privacy exposure.
+C0162,CON-1085,The governing law shall be mutually agreed upon by the parties.,Governing Law,Low,Requires mutual agreement.
+C0037,CON-1029,"The supplier's liability shall be limited only for direct damages, with no monetary cap.",Liability,High,No monetary liability cap is specified.
+C0191,CON-1039,Any dispute shall first be resolved through good-faith negotiation between the parties.,Dispute Resolution,Low,Provides an initial dispute-resolution mechanism.
+C0062,CON-1052,Confidential information shall be protected using reasonable security measures.,Confidentiality,Low,Provides a general confidentiality obligation.
+C0023,CON-1086,The supplier shall have unlimited liability for all losses arising from this agreement.,Liability,Critical,Unlimited liability creates significant exposure.
+C0142,CON-1034,This agreement shall renew automatically for successive one-year periods unless either party provides 30 days notice.,Renewal,Medium,Automatic renewal requires monitoring.
+C0102,CON-1086,All intellectual property rights are transferred without limitation upon creation.,Intellectual Property,Medium,Broad transfer language requires review.
+C0034,CON-1034,"The supplier's liability shall be limited only for direct damages, with no monetary cap.",Liability,High,No monetary liability cap is specified.
+C0012,CON-1012,Payment may be withheld indefinitely at the sole discretion of the customer.,Payment,High,Creates substantial payment uncertainty.
+C0195,CON-1044,Any dispute shall first be resolved through good-faith negotiation between the parties.,Dispute Resolution,Low,Provides an initial dispute-resolution mechanism.
+C0160,CON-1057,The contract shall automatically renew indefinitely without further notice.,Renewal,High,Indefinite automatic renewal creates commercial risk.
+C0007,CON-1026,Payment shall be made within 365 days of receipt of a valid invoice.,Payment,Low,Standard payment period.
+C0028,CON-1099,The supplier's aggregate liability shall not exceed 90 percent of the contract value.,Liability,Low,A defined liability cap is present.
+C0121,CON-1002,The customer shall indemnify the supplier for all claims arising from the services.,Indemnification,High,Broad customer indemnification obligation.
+C0005,CON-1028,Payment shall be made within 30 days of receipt of a valid invoice.,Payment,Low,Standard payment period.
+C0033,CON-1083,"The supplier's liability shall be limited only for direct damages, with no monetary cap.",Liability,High,No monetary liability cap is specified.
+C0143,CON-1005,The agreement expires at the end of the initial term unless renewed in writing.,Renewal,Low,No automatic renewal.
+C0146,CON-1074,This agreement shall renew automatically for successive one-year periods unless either party provides 120 days notice.,Renewal,Medium,Automatic renewal requires monitoring.
+C0110,CON-1002,The supplier retains all rights to deliverables created exclusively for the customer.,Intellectual Property,High,Customer ownership of commissioned deliverables is restricted.
+C0145,CON-1078,The contract shall automatically renew indefinitely without further notice.,Renewal,High,Indefinite automatic renewal creates commercial risk.
+C0011,CON-1028,Payment may be withheld indefinitely at the sole discretion of the customer.,Payment,High,Creates substantial payment uncertainty.
+C0063,CON-1067,Confidentiality obligations shall continue indefinitely for all information.,Confidentiality,Medium,Indefinite obligation may require review.
+C0113,CON-1037,Each party retains ownership of intellectual property developed independently.,Intellectual Property,Low,Defines background IP ownership.
+C0147,CON-1006,The agreement expires at the end of the initial term unless renewed in writing.,Renewal,Low,No automatic renewal.
+C0167,CON-1061,This agreement shall be governed by the laws of India.,Governing Law,Low,Governing law is explicitly defined.
+C0001,CON-1095,Payment shall be made within 15 days of receipt of a valid invoice.,Payment,Low,Standard payment period.
+C0199,CON-1060,Disputes may be brought before any court selected by either party.,Dispute Resolution,Medium,Forum selection is broad and may require review.
+C0154,CON-1017,The contract shall automatically renew indefinitely without further notice.,Renewal,High,Indefinite automatic renewal creates commercial risk.
+C0071,CON-1070,The receiving party may disclose confidential information to any third party without restriction.,Confidentiality,Critical,Allows unrestricted disclosure of confidential information.
+C0124,CON-1019,"The supplier shall indemnify the customer for all losses, regardless of cause.",Indemnification,Critical,Very broad indemnification exposure.
+C0065,CON-1044,Confidential information shall be protected using reasonable security measures.,Confidentiality,Low,Provides a general confidentiality obligation.
+C0045,CON-1015,The customer may terminate this agreement immediately without prior notice.,Termination,High,Immediate termination creates significant uncertainty.
+C0164,CON-1097,The supplier agrees to be subject to any law selected by the customer.,Governing Law,High,Allows unilateral selection of governing law.
+C0029,CON-1005,Each party's aggregate liability shall not exceed the fees paid under this agreement.,Liability,Low,Liability is capped.
+C0041,CON-1050,Either party may terminate for material breach after a 30-day cure period.,Termination,Low,Termination follows a defined cure process.
+C0109,CON-1070,Each party retains ownership of intellectual property developed independently.,Intellectual Property,Low,Defines background IP ownership.
+C0156,CON-1079,Renewal is subject to mutual written agreement by both parties.,Renewal,Low,Renewal requires explicit agreement.
+C0157,CON-1071,The contract shall automatically renew indefinitely without further notice.,Renewal,High,Indefinite automatic renewal creates commercial risk.
+C0026,CON-1060,The supplier's aggregate liability shall not exceed 45 percent of the contract value.,Liability,Low,A defined liability cap is present.
+C0024,CON-1078,The supplier shall have unlimited liability for all losses arising from this agreement.,Liability,Critical,Unlimited liability creates significant exposure.
+C0185,CON-1089,Unresolved disputes shall be submitted to arbitration in Chennai.,Dispute Resolution,Low,Defines an arbitration mechanism and location.
+C0148,CON-1067,Renewal is subject to mutual written agreement by both parties.,Renewal,Low,Renewal requires explicit agreement.
+C0082,CON-1057,Personal data shall be retained for no longer than 30 years unless legally required.,Data Privacy,Medium,Retention period may require policy review.
+C0040,CON-1088,The supplier's aggregate liability shall not exceed 45 percent of the contract value.,Liability,Low,A defined liability cap is present.
+C0169,CON-1064,This agreement shall be governed by the laws of the state in which the customer is located.,Governing Law,Medium,Governing jurisdiction is variable.
+C0048,CON-1098,The customer may terminate this agreement immediately without prior notice.,Termination,High,Immediate termination creates significant uncertainty.
+C0095,CON-1066,Personal data shall be retained for no longer than 15 years unless legally required.,Data Privacy,Medium,Retention period may require policy review.
+C0155,CON-1086,The agreement expires at the end of the initial term unless renewed in writing.,Renewal,Low,No automatic renewal.
+C0044,CON-1097,Either party may terminate this agreement by providing 365 days written notice.,Termination,Low,Mutual termination with notice.
+C0139,CON-1099,"The supplier shall indemnify the customer for all losses, regardless of cause.",Indemnification,Critical,Very broad indemnification exposure.
+C0004,CON-1005,Payment shall be made within 120 days of receipt of a valid invoice.,Payment,Low,Standard payment period.
+C0106,CON-1034,Each party retains ownership of intellectual property developed independently.,Intellectual Property,Low,Defines background IP ownership.
+C0054,CON-1047,Either party may terminate this agreement by providing 30 days written notice.,Termination,Low,Mutual termination with notice.
+C0134,CON-1005,The supplier shall indemnify the customer against third-party intellectual property infringement claims.,Indemnification,Low,Defines a specific indemnification obligation.
+C0181,CON-1057,Unresolved disputes shall be submitted to arbitration in Chennai.,Dispute Resolution,Low,Defines an arbitration mechanism and location.
+C0179,CON-1082,The supplier agrees to be subject to any law selected by the customer.,Governing Law,High,Allows unilateral selection of governing law.
+C0186,CON-1009,Unresolved disputes shall be submitted to arbitration in Chennai.,Dispute Resolution,Low,Defines an arbitration mechanism and location.
+C0050,CON-1078,The customer may terminate this agreement immediately without prior notice.,Termination,High,Immediate termination creates significant uncertainty.
+C0081,CON-1060,Personal data shall be retained for no longer than 75 years unless legally required.,Data Privacy,Medium,Retention period may require policy review.
+C0035,CON-1096,The supplier's aggregate liability shall not exceed 60 percent of the contract value.,Liability,Low,A defined liability cap is present.
+C0008,CON-1058,The customer shall pay all undisputed invoices within 60 days.,Payment,Low,Reasonable payment obligation.
+C0111,CON-1018,The supplier retains all rights to deliverables created exclusively for the customer.,Intellectual Property,High,Customer ownership of commissioned deliverables is restricted.
+C0092,CON-1008,The supplier may retain personal data indefinitely for business purposes.,Data Privacy,Critical,Indefinite retention creates privacy risk.
+C0084,CON-1097,The parties shall process personal data in accordance with applicable data protection laws.,Data Privacy,Low,Requires compliance with applicable privacy laws.
+C0177,CON-1058,The governing law shall be mutually agreed upon by the parties.,Governing Law,Low,Requires mutual agreement.
+C0182,CON-1031,Any dispute shall first be resolved through good-faith negotiation between the parties.,Dispute Resolution,Low,Provides an initial dispute-resolution mechanism.
+C0090,CON-1085,The supplier may transfer personal data to third parties without prior authorization.,Data Privacy,High,Unrestricted third-party transfer creates privacy exposure.
+C0009,CON-1098,Payment may be withheld indefinitely at the sole discretion of the customer.,Payment,High,Creates substantial payment uncertainty.
+C0014,CON-1006,Payment may be withheld indefinitely at the sole discretion of the customer.,Payment,High,Creates substantial payment uncertainty.
+C0060,CON-1078,The customer may terminate this agreement immediately without prior notice.,Termination,High,Immediate termination creates significant uncertainty.
+C0172,CON-1090,This agreement shall be governed by the laws of the state in which the customer is located.,Governing Law,Medium,Governing jurisdiction is variable.
+C0132,CON-1086,"The supplier shall indemnify the customer for all losses, regardless of cause.",Indemnification,Critical,Very broad indemnification exposure.
+C0018,CON-1006,The customer shall make payment within 30 days of the invoice date.,Payment,Medium,Payment period is longer than the preferred threshold.
+C0073,CON-1025,The receiving party may disclose confidential information to any third party without restriction.,Confidentiality,Critical,Allows unrestricted disclosure of confidential information.
+C0176,CON-1079,The supplier agrees to be subject to any law selected by the customer.,Governing Law,High,Allows unilateral selection of governing law.
+C0135,CON-1026,The customer shall indemnify the supplier for all claims arising from the services.,Indemnification,High,Broad customer indemnification obligation.
+C0168,CON-1054,This agreement shall be governed by the laws of India.,Governing Law,Low,Governing law is explicitly defined.
+C0184,CON-1020,Any dispute shall first be resolved through good-faith negotiation between the parties.,Dispute Resolution,Low,Provides an initial dispute-resolution mechanism.
+C0064,CON-1032,The receiving party may disclose confidential information to any third party without restriction.,Confidentiality,Critical,Allows unrestricted disclosure of confidential information.
+C0055,CON-1008,The customer may terminate this agreement immediately without prior notice.,Termination,High,Immediate termination creates significant uncertainty.
+C0108,CON-1037,Each party retains ownership of intellectual property developed independently.,Intellectual Property,Low,Defines background IP ownership.
+C0051,CON-1048,The customer may terminate the agreement for convenience with 45 days notice.,Termination,Medium,One-sided termination right.
+C0197,CON-1004,Unresolved disputes shall be submitted to arbitration in Chennai.,Dispute Resolution,Low,Defines an arbitration mechanism and location.
+C0059,CON-1022,Either party may terminate for material breach after a 365-day cure period.,Termination,Low,Termination follows a defined cure process.
+C0049,CON-1014,The customer may terminate the agreement for convenience with 365 days notice.,Termination,Medium,One-sided termination right.
+C0089,CON-1037,The supplier may retain personal data indefinitely for business purposes.,Data Privacy,Critical,Indefinite retention creates privacy risk.
+C0022,CON-1048,The supplier shall have unlimited liability for all losses arising from this agreement.,Liability,Critical,Unlimited liability creates significant exposure.
+C0058,CON-1085,The customer may terminate the agreement for convenience with 45 days notice.,Termination,Medium,One-sided termination right.
+C0161,CON-1066,The governing law shall be mutually agreed upon by the parties.,Governing Law,Low,Requires mutual agreement.
+C0193,CON-1029,Unresolved disputes shall be submitted to arbitration in Chennai.,Dispute Resolution,Low,Defines an arbitration mechanism and location.
+C0130,CON-1053,Each party shall indemnify the other for claims caused by its own negligence.,Indemnification,Low,Mutual and fault-based indemnification.
+C0038,CON-1064,The supplier's aggregate liability shall not exceed 365 percent of the contract value.,Liability,Low,A defined liability cap is present.
+C0158,CON-1037,This agreement shall renew automatically for successive one-year periods unless either party provides 75 days notice.,Renewal,Medium,Automatic renewal requires monitoring.
+C0194,CON-1063,The customer may choose the dispute forum after a dispute arises.,Dispute Resolution,High,Allows unilateral forum selection.
+C0002,CON-1029,Payment may be withheld indefinitely at the sole discretion of the customer.,Payment,High,Creates substantial payment uncertainty.
+C0053,CON-1063,Either party may terminate this agreement by providing 90 days written notice.,Termination,Low,Mutual termination with notice.
+C0150,CON-1080,This agreement shall renew automatically for successive one-year periods unless either party provides 90 days notice.,Renewal,Medium,Automatic renewal requires monitoring.
+C0131,CON-1095,The supplier shall indemnify the customer against third-party intellectual property infringement claims.,Indemnification,Low,Defines a specific indemnification obligation.
+C0152,CON-1040,The contract shall automatically renew indefinitely without further notice.,Renewal,High,Indefinite automatic renewal creates commercial risk.
+C0104,CON-1059,All intellectual property created specifically for the customer shall be owned by the customer upon payment.,Intellectual Property,Low,Clearly defines customer ownership.
+C0100,CON-1027,The supplier may retain personal data indefinitely for business purposes.,Data Privacy,Critical,Indefinite retention creates privacy risk.
+C0117,CON-1006,All intellectual property rights are transferred without limitation upon creation.,Intellectual Property,Medium,Broad transfer language requires review.
+C0088,CON-1050,The supplier may transfer personal data to third parties without prior authorization.,Data Privacy,High,Unrestricted third-party transfer creates privacy exposure.
+C0075,CON-1055,The receiving party may disclose confidential information to any third party without restriction.,Confidentiality,Critical,Allows unrestricted disclosure of confidential information.
+C0122,CON-1089,The supplier shall indemnify the customer against third-party intellectual property infringement claims.,Indemnification,Low,Defines a specific indemnification obligation.
+C0200,CON-1034,Unresolved disputes shall be submitted to arbitration in Chennai.,Dispute Resolution,Low,Defines an arbitration mechanism and location.
+C0021,CON-1082,The supplier shall have unlimited liability for all losses arising from this agreement.,Liability,Critical,Unlimited liability creates significant exposure.
+C0189,CON-1050,Unresolved disputes shall be submitted to arbitration in Chennai.,Dispute Resolution,Low,Defines an arbitration mechanism and location.
+C0072,CON-1032,Confidential information shall be protected using reasonable security measures.,Confidentiality,Low,Provides a general confidentiality obligation.
+C0107,CON-1009,Each party retains ownership of intellectual property developed independently.,Intellectual Property,Low,Defines background IP ownership.
+C0015,CON-1016,The customer shall pay all undisputed invoices within 365 days.,Payment,Low,Reasonable payment obligation.
+C0093,CON-1008,The parties shall process personal data in accordance with applicable data protection laws.,Data Privacy,Low,Requires compliance with applicable privacy laws.
+C0180,CON-1063,The supplier agrees to be subject to any law selected by the customer.,Governing Law,High,Allows unilateral selection of governing law.
+C0103,CON-1041,The supplier retains all rights to deliverables created exclusively for the customer.,Intellectual Property,High,Customer ownership of commissioned deliverables is restricted.
